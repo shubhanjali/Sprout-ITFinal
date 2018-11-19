@@ -1,0 +1,41 @@
+.jit-logo-height
+{
+  height: 140px;
+  width: 280px;
+}
+
+.sproutit-logo-height {
+  height: 140px;
+}
+.vista-logo-height {
+  height: 100px;
+}
+.sk-logo-height
+{
+  height:85px;
+  width:85px;
+}
+.cosponsor
+{
+  margin: 20px 10px 20px 0px;
+  font-size: 18px;
+  font-weight: 100;
+  color: #333333;
+  
+}
+
+.power
+{
+  margin: 25px 25px 25px 25px;
+  font-size: 30px;
+  font-weight: 100;
+
+}
+
+.present
+{
+  margin: 0 25px;
+  font-size: 25px;
+  font-weight: 100;
+  color: #333333;
+}

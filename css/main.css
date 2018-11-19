@@ -508,21 +508,6 @@ background-color: #01014a;
 }
 
 
-.sproutit-logo-height {
-  height: 150px;
-}
-
-.vista-logo-height {
-  height: 150px;
-}
-
-.present
-{
-  margin: 0 25px;
-  font-size: 25px;
-  font-weight: 100;
-  color: #333333;
-}
 .shadow{-webkit-box-shadow: 0px 0px 19px 2px rgba(232,232,232,1);
 -moz-box-shadow: 0px 0px 19px 2px rgba(232,232,232,1);
 box-shadow: 0px 0px 19px 2px rgba(232,232,232,1);}
@@ -1034,8 +1019,10 @@ box-shadow: 0px 0px 19px 2px rgba(232,232,232,1);}
     padding-left: 20PX;
    
 }
-
 .display-only-phone{display: none;}
+/* new*/
+
+
 
 /**Nikhil CSS**/
 /*  ----------------------------------------------------
